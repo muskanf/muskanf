@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muskanf and I like working on cybersecurity and web3 projects!
+- 👋 Hi, I’m @muskanf and I like working on coding projects!
 
 <!---
 muskanf/muskanf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
